@@ -1,0 +1,9 @@
+{
+	"name": "Learn-DF-2024",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e80e328b-fcb8-4260-97e5-af6a4467eeb1",
+		"tenantId": "729b03ee-fcaf-42c6-aad3-c0861f1cacb5"
+	}
+}
